@@ -1,0 +1,7 @@
+# Phân tích, chấm điểm, báo cáo và web dashboard.
+# Phần quay/trích xuất từ camera nằm ở requirements-camera.txt (tùy chọn).
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+flask>=3.0

@@ -1,0 +1,23 @@
+# Môi trường Python
+.venv/
+__pycache__/
+*.pyc
+
+# Dữ liệu thật và bản ghi nặng — không commit
+data/
+frames/
+outputs/
+report/
+
+# Bản ghi / video / nén rời rạc ở bất kỳ đâu
+*.db3
+*.bag
+*.mp4
+*.zip
+
+# Báo cáo chẩn đoán do inspect_recording.py sinh ra
+*_inspection*.json
+
+# Cho phép giữ khung thư mục
+!manifests/.gitkeep
+!outputs/.gitkeep

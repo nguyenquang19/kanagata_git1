@@ -1,0 +1,5 @@
+# Optional: only needed for raw recording / extraction / video export.
+# Prefer the existing environment that successfully extracted your .db3.
+pyrealsense2==2.58.4.10922
+mediapipe==0.10.14
+opencv-python>=4.8
